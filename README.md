@@ -1,4 +1,6 @@
 ### Hi there 👋
+# My name is Astrid Tosques, and I am currently a student at Northeastern Univeristy. 
+# I study Computer Science and Environmental Science, and I am currently learning the fundamentals of computer science and the basics of languages like Racket and Python.
 
 <!--
 **atosques/atosques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
