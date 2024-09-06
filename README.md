@@ -1,6 +1,3 @@
-### Hi there 👋
-# Welcome to my GitHub! Feel free to look at the links to my projects below:
-
 
 <!--
 **atosques/atosques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
