@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a second year student pursuing a combined major in Computer Science and Environmental and Sustainability Sciences at Northeastern University. I have a interest in UX/UI as well as database development and look forward to extending my experience within these careers. I have proficiencies with languages like Java and SQL. I am familiar with Python, HTML, CSS, and JavaScript. For programs, I enjoy using of Figma and SQL Workbench.
+I am a second year student pursuing a combined major in Computer Science and Environmental and Sustainability Sciences at Northeastern University. I have a interest in UX/UI as well as database development and look forward to extending my experience within these careers. I have proficiencies with languages like Java and SQL. I am familiar with Python, HTML, CSS, and JavaScript. For programs, I enjoy using of Figma and SQL Workbench when developing.
