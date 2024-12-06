@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 -->
 
 I am a second year student pursuing a combined major in Computer Science and Environmental and Sustainability Sciences at Northeastern University. I have a interest in UX/UI, data science, and database development and look forward to extending my experience within these careers. I have proficiencies with languages like Java, Python, and SQL. I am familiar with HTML, CSS, and JavaScript. For software, I enjoy using of Figma and MySQL  when developing, and I have used IDEs like Intellij, Eclipse, and VSCode while developing.
+
+I have recently completed a project using Python and SQL! It is a simple planner database that stores users, co-users of calendars, calendars, events, and categories. I am excited to set the repository to public mid December once I clean it up. :)
